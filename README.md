@@ -1,4 +1,4 @@
-# firebear-fastprice
+# hgati-fastprice
 Fast change price of products for magento 2
 
 ---
@@ -23,7 +23,7 @@ Install
 ----------
 ---
 
-1. ```composer require firebear/fastprice```
+1. ```composer require hgati/fastprice```
 2. ```php bin/magento setup:upgrade```
 
 

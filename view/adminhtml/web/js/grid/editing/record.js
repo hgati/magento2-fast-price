@@ -9,7 +9,7 @@ define([
             templates: {
                 fields: {
                     price: {
-                        component: 'Firebear_FastPrice/js/form/element/price',
+                        component: 'Hgati_FastPrice/js/form/element/price',
                         template: 'ui/form/element/input'
                     }
 

@@ -9,7 +9,7 @@ define([
         defaults: {
             templates: {
                 record: {
-                    component: 'Firebear_FastPrice/js/grid/editing/record'
+                    component: 'Hgati_FastPrice/js/grid/editing/record'
                 }
             }
         },

@@ -12,7 +12,7 @@ define([
 
     return Element.extend({
         defaults: {
-            template: 'Firebear_FastPrice/grid/exportButton',
+            template: 'Hgati_FastPrice/grid/exportButton',
             placeholder: $t(''),
             input: ''
         },

@@ -1,6 +1,6 @@
 <?php
 
-namespace Firebear\FastPrice\Controller\Adminhtml\Product;
+namespace Hgati\FastPrice\Controller\Adminhtml\Product;
 
 use Magento\Backend\App\Action\Context;
 use Magento\Framework\Controller\Result\JsonFactory;

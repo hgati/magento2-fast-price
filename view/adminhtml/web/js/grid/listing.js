@@ -6,7 +6,7 @@ define([
     return Collection.extend({
         defaults: {
             editorConfig: {
-                component: 'Firebear_FastPrice/js/grid/editing/editor'
+                component: 'Hgati_FastPrice/js/grid/editing/editor'
             }
         }
     });

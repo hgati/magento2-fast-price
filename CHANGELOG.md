@@ -1,3 +1,7 @@
+1.2.0
+=============
+Refactoring whole codes and Change maintainer
+
 1.1.2
 =============
 Fix inline Edit
